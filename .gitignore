@@ -3,7 +3,8 @@
 .flaskenv
 *.pyc
 *.pyo
-env/
+venv/
+.env_file
 env*
 dist/
 build/
